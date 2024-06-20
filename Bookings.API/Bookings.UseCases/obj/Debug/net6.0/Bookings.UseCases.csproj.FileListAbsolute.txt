@@ -1,0 +1,17 @@
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.UseCases.deps.json
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.UseCases.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.UseCases.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.DTOs.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.Entities.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.DTOs.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\bin\Debug\net6.0\Bookings.Entities.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.csproj.AssemblyReference.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.AssemblyInfoInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.AssemblyInfo.cs
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.csproj.CopyComplete
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\refint\Bookings.UseCases.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\Bookings.UseCases.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.UseCases\obj\Debug\net6.0\ref\Bookings.UseCases.dll

@@ -1,0 +1,15 @@
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\bin\Debug\net6.0\Bookings.Presenters.deps.json
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\bin\Debug\net6.0\Bookings.Presenters.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\bin\Debug\net6.0\Bookings.Presenters.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.csproj.AssemblyReference.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.AssemblyInfoInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.AssemblyInfo.cs
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\refint\Bookings.Presenters.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\ref\Bookings.Presenters.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\bin\Debug\net6.0\Bookings.Entities.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\bin\Debug\net6.0\Bookings.Entities.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.Presenters\obj\Debug\net6.0\Bookings.Presenters.csproj.CopyComplete

@@ -1,0 +1,497 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.IoC\\Bookings.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.DTOs\\Bookings.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.DTOs\\Bookings.DTOs.csproj",
+        "projectName": "Bookings.DTOs",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.DTOs\\Bookings.DTOs.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj",
+        "projectName": "Bookings.Entities",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.IoC\\Bookings.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.IoC\\Bookings.IoC.csproj",
+        "projectName": "Bookings.IoC",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.IoC\\Bookings.IoC.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Presenters\\Bookings.Presenters.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Presenters\\Bookings.Presenters.csproj"
+              },
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Repositories\\Bookings.Repositories.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Repositories\\Bookings.Repositories.csproj"
+              },
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\Bookings.UseCases.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\Bookings.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Presenters\\Bookings.Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Presenters\\Bookings.Presenters.csproj",
+        "projectName": "Bookings.Presenters",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Presenters\\Bookings.Presenters.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Repositories\\Bookings.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Repositories\\Bookings.Repositories.csproj",
+        "projectName": "Bookings.Repositories",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Repositories\\Bookings.Repositories.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj"
+              },
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.RepositoryEF\\Bookings.RepositoryEF.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.RepositoryEF\\Bookings.RepositoryEF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.RepositoryEF\\Bookings.RepositoryEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.RepositoryEF\\Bookings.RepositoryEF.csproj",
+        "projectName": "Bookings.RepositoryEF",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.RepositoryEF\\Bookings.RepositoryEF.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.RepositoryEF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\Bookings.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\Bookings.UseCases.csproj",
+        "projectName": "Bookings.UseCases",
+        "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\Bookings.UseCases.csproj",
+        "packagesPath": "C:\\Users\\dpaternina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dpaternina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.DTOs\\Bookings.DTOs.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.DTOs\\Bookings.DTOs.csproj"
+              },
+              "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj": {
+                "projectPath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.Entities\\Bookings.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

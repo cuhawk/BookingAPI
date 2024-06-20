@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HPfjFecpWVQXEp6COrzqUhiMUj+M+papp33D8lBEUkjrXv4apT+4lHKtGqqYZGcnghUOFSZzK4UozdtfU9EJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dpaternina\\Documents\\Test\\bookingsappback\\Bookings.API\\Bookings.UseCases\\Bookings.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpaternina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\bin\Debug\net6.0\Bookings.RepositoryEF.deps.json
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\bin\Debug\net6.0\Bookings.RepositoryEF.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\bin\Debug\net6.0\Bookings.RepositoryEF.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.csproj.AssemblyReference.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.AssemblyInfoInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.AssemblyInfo.cs
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.csproj.CoreCompileInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\refint\Bookings.RepositoryEF.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\ref\Bookings.RepositoryEF.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\bin\Debug\net6.0\Bookings.RepositoryEF.runtimeconfig.json
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.genruntimeconfig.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\bin\Debug\net6.0\Bookings.Entities.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\bin\Debug\net6.0\Bookings.Entities.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.RepositoryEF\obj\Debug\net6.0\Bookings.RepositoryEF.csproj.CopyComplete

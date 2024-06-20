@@ -1,0 +1,15 @@
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\bin\Debug\net6.0\Bookings.DTOs.deps.json
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\bin\Debug\net6.0\Bookings.DTOs.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\bin\Debug\net6.0\Bookings.DTOs.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\bin\Debug\net6.0\Bookings.Entities.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\bin\Debug\net6.0\Bookings.Entities.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.csproj.AssemblyReference.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.AssemblyInfoInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.AssemblyInfo.cs
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.csproj.CopyComplete
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\refint\Bookings.DTOs.dll
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\Bookings.DTOs.pdb
+C:\Users\dpaternina\Documents\Test\bookingsappback\Bookings.API\Bookings.DTOs\obj\Debug\net6.0\ref\Bookings.DTOs.dll
